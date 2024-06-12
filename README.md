@@ -9,5 +9,8 @@ clone (download) this repo. <br>
 go to the cloned folder <br>
 `cd ~/Downloads/apptomenu`
 
+make it executeable <br>
+`chmod +x apptomenu.sh`
+
 run it as root. <br>
 `sudo ./apptomenu.sh`
